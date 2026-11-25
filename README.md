@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Global Data Dashboard
+# 🦠 COVID-19 Global Vaccination Dashboard
 
 ## 1. Project Title / Headline
 
