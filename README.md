@@ -74,8 +74,3 @@ To deliver an **interactive analytics tool** that:
 * **Demographic Insights:** Older populations show higher vulnerability.
 * **Global Comparison:** Understand how countries responded differently.
 
----
-
-## 6. Screenshots / Demos
-
-![Dashboard Preview](https://github.com/niveshbansal07/covid19-analytics-powerbi/blob/main/covid19%20analytics.png)
