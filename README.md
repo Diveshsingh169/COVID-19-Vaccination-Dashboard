@@ -1,4 +1,4 @@
-# 🦠 COVID-1-Vaccination Dashboard
+# 🦠 COVID-19-Vaccination Dashboard
 
 ## 1. Project Title / Headline
 
